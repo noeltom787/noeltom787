@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m a Web Developer
+- 🤖 I’m a Developer
+- 👾 I'm currently working on Three.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noeltom787)
 ![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noeltom787&show_icons=true)
